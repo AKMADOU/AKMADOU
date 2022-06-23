@@ -5,6 +5,7 @@ I'm ADOU Kouamé Mathurin, a Master's student in Machine Intelligence at Africa 
 **Research Interest:**
 
 🔭 I am currenlty interested by Natural Language Processing in general, Kernel methods in machine learning and Computer Vision.
+
 👯 I will like to collaborate on research and projects on automatic detection tools conversational AI.
 <!-- 📫 You can reach me at Toadoum -->
 <!-- 😄 Pronouns: he/him -->
